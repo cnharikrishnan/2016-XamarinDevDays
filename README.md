@@ -21,7 +21,3 @@ The following amazing libraries were used to create this app:
 * [User Dialogs Plugin for Xamarin](https://github.com/aritchie/userdialogs)
 * [MVVM Helpers](https://github.com/jamesmontemagno/mvvm-helpers)
 * [Json.NET](http://www.newtonsoft.com/json)
-
-## License
-
-Under MIT
