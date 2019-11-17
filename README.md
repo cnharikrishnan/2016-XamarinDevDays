@@ -1,1 +1,0 @@
-# XamarinDevDays-2016
